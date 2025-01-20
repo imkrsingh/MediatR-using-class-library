@@ -1,0 +1,2 @@
+# MediatR using class library
+ 

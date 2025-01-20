@@ -1,0 +1,6 @@
+@Identity_Framework_Learn_HostAddress = http://localhost:5210
+
+GET {{Identity_Framework_Learn_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
